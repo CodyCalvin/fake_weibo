@@ -5,7 +5,7 @@ Pod::Spec.new do |s|
   s.name             = 'fake_weibo'
   s.version          = '0.0.1'
   s.summary          = 'A new Flutter plugin.'
-  s.description      = <<-DE
+  s.description      = <<-DESC
 A new Flutter plugin.
                        DESC
   s.homepage         = 'http://example.com'
