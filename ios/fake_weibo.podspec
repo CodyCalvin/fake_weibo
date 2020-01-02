@@ -17,7 +17,7 @@ A new Flutter plugin.
   s.dependency 'Flutter'
   # 微博
   s.static_framework = true
-  s.dependency 'Weibo_SDK',:git => 'https://github.com/sinaweibosdk/weibo_ios_sdk.git'
+  s.dependency 'Weibo_SDK', '~> 3.2.3'
   s.ios.deployment_target = '9.0'
 end
 
